@@ -1,4 +1,4 @@
+<<<<<<< HEAD
 from xml.etree.ElementInclude import include
 
-
-print("Hello World!")
+print("Hello world!")
